@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "int __cdecl test(float,char)" (?test@@YAHMD@Z) referenced in function _main
+C:\Users\Stephanie\Documents\Visual Studio 2015\Projects\CS162 Lab 3\Debug\CS162 Lab 3.exe : fatal error LNK1120: 1 unresolved externals
